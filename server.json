@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.leewenjie/oxaide",
-  "title": "Oxaide — Singapore company research for AI agents",
-  "description": "Agent buys cited Singapore company research over MCP: ACRA filings, URA comps, GeBIZ tenders, pre-deal and dispute briefs. Fixed S$49/390/1500 per job, Stripe or USDC on Base, no account. Research, not advice.",
+  "title": "Oxaide \u2014 Singapore company research for AI agents",
+  "description": "Agent-buys cited Singapore company research: ACRA/URA/GeBIZ packs, S$49/390/1500 per job.",
   "version": "2.0.0",
   "websiteUrl": "https://oxaide.com/agents",
   "repository": {
