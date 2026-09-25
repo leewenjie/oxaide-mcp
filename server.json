@@ -3,7 +3,7 @@
   "name": "io.github.leewenjie/oxaide",
   "title": "Oxaide \u2014 Singapore company research for AI agents",
   "description": "Agent-buys cited Singapore company research: ACRA/URA/GeBIZ packs, S$49/390/1500 per job.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "websiteUrl": "https://oxaide.com/agents",
   "repository": {
     "source": "github",

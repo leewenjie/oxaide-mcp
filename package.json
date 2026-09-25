@@ -1,13 +1,16 @@
 {
   "name": "@leewenjie/oxaide-mcp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Oxaide Singapore company research over MCP (stdio bridge to https://oxaide.com/mcp). Paid per job S$49/390/1500, no account.",
   "mcpName": "io.github.leewenjie/oxaide",
   "type": "module",
   "bin": {
     "oxaide-mcp": "./bridge.mjs"
   },
-  "files": ["bridge.mjs", "README.md"],
+  "files": [
+    "bridge.mjs",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/leewenjie/oxaide-mcp.git"
@@ -15,5 +18,13 @@
   "license": "MIT",
   "dependencies": {
     "mcp-remote": "^0.1.0"
-  }
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "x402",
+    "due-diligence",
+    "singapore",
+    "acra"
+  ]
 }
